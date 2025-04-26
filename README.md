@@ -41,7 +41,7 @@ cd Sorting-Algorithms
 
 - C++ compiler
 - An IDE of your choice
-- 
+
 ### Running in an IDE
 
 #### Visual Studio
